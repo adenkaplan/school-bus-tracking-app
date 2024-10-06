@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "status": "Waiting",
+    "lat": 51.5136,
+    "lng": -0.1587,
+    "picture": "https://i.pravatar.cc/150?img=1",
+    "details": "Allergic to peanuts. Needs to be picked up at 3:30 PM."
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "status": "Waiting",
+    "lat": 51.5206,
+    "lng": -0.1324,
+    "picture": "https://i.pravatar.cc/150?img=2",
+    "details": "Participates in after-school chess club on Tuesdays and Thursdays."
+  },
+  {
+    "id": "3",
+    "name": "Mike Johnson",
+    "status": "Waiting",
+    "lat": 51.5107,
+    "lng": -0.1122,
+    "picture": "https://i.pravatar.cc/150?img=3",
+    "details": "Has asthma. Inhaler is in the front pocket of the backpack."
+  },
+  {
+    "id": "4",
+    "name": "Sarah Williams",
+    "status": "Waiting",
+    "lat": 51.5189,
+    "lng": -0.1265,
+    "picture": "https://i.pravatar.cc/150?img=4",
+    "details": "Vegetarian diet. Brings own lunch. Pick up time is flexible."
+  }
+]

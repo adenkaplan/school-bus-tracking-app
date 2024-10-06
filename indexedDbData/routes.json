@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Morning Route 1",
+    "stops": [
+      {
+        "id": "1",
+        "name": "Bus Depot",
+        "type": "depot",
+        "eta": "07:30",
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      {
+        "id": "2",
+        "name": "Student 1 - John Doe",
+        "type": "student",
+        "eta": "07:45",
+        "lat": 51.5136,
+        "lng": -0.1587
+      },
+      {
+        "id": "3",
+        "name": "Student 2 - Jane Smith",
+        "type": "student",
+        "eta": "08:00",
+        "lat": 51.5206,
+        "lng": -0.1324
+      },
+      {
+        "id": "4",
+        "name": "Student 3 - Mike Johnson",
+        "type": "student",
+        "eta": "08:15",
+        "lat": 51.5107,
+        "lng": -0.1122
+      },
+      {
+        "id": "5",
+        "name": "Student 4 - Sarah Williams",
+        "type": "student",
+        "eta": "08:30",
+        "lat": 51.5189,
+        "lng": -0.1265
+      },
+      {
+        "id": "6",
+        "name": "London School",
+        "type": "school",
+        "eta": "08:45",
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    ],
+    "route": [
+      {"lat": 51.5074, "lng": -0.1278},
+      {"lat": 51.5090, "lng": -0.1300},
+      {"lat": 51.5110, "lng": -0.1400},
+      {"lat": 51.5136, "lng": -0.1587},
+      {"lat": 51.5150, "lng": -0.1500},
+      {"lat": 51.5180, "lng": -0.1400},
+      {"lat": 51.5206, "lng": -0.1324},
+      {"lat": 51.5190, "lng": -0.1200},
+      {"lat": 51.5150, "lng": -0.1150},
+      {"lat": 51.5107, "lng": -0.1122},
+      {"lat": 51.5130, "lng": -0.1180},
+      {"lat": 51.5160, "lng": -0.1220},
+      {"lat": 51.5189, "lng": -0.1265},
+      {"lat": 51.5160, "lng": -0.1280},
+      {"lat": 51.5120, "lng": -0.1290},
+      {"lat": 51.5074, "lng": -0.1278}
+    ]
+  }
+]
